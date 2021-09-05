@@ -4,4 +4,4 @@ The purpose of this project was to visualize an array of UFO sightings that was 
 
 # Results
 
-The webpage is a great way of showing our data. Its clean and easy to read so its not hard for someone to understand what we are trying to show.
+The webpage is a great way of showing our data. Its clean and easy to read so its not hard for someone to understand what we are trying to show. Our table is shown below, as you can see we made it clear and easy to tell that we have boxes on the left hand side that will take your input and filter the table occordingly. ![](https://github.com/RonHolcomb/UFO_Sightings/blob/main/Screenshot%20(26).png)
